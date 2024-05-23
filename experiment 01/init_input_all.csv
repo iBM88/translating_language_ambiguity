@@ -1,0 +1,475 @@
+ID,Type,Source
+0,2,Andrei picked up the chair or the bag and the telescope
+1,2,Danny held the chair or the bag and the telescope
+2,2,Danny moved the chair or the bag and the telescope
+3,2,Andrei held the telescope or the chair and the bag
+4,2,Andrei and Danny moved the yellow bag and chair
+5,2,Andrei and Danny held the green chair and bag
+6,2,Andrei and Danny put down the yellow chair and bag
+7,2,Danny held the chair or the telescope and the bag
+8,2,Danny moved the bag or the chair and the telescope
+9,2,Andrei and Danny picked up the green bag and chair
+10,2,Andrei picked up the chair or the telescope and the bag
+11,2,Andrei and Danny moved the yellow chair and bag
+12,2,Andrei and Danny picked up the yellow bag and chair
+13,2,Andrei and Danny moved the green chair and bag
+14,2,Andrei and Danny picked up the yellow chair and bag
+15,2,Andrei moved the chair or the telescope and the bag
+16,2,Danny held the telescope or the chair and the bag
+17,2,Andrei and Danny held the yellow bag and chair
+18,2,Andrei and Danny picked up the green chair and bag
+19,2,Danny moved the telescope or the chair and the bag
+20,2,Andrei and Danny put down the green bag and chair
+21,2,Andrei and Danny put down the green chair and bag
+22,2,Andrei moved the chair or the bag and the telescope
+23,2,Andrei picked up the telescope or the chair and the bag
+24,2,Danny picked up the bag or the chair and the telescope
+25,2,Danny held the bag or the chair and the telescope
+26,2,Danny picked up the telescope or the chair and the bag
+27,2,Danny picked up the chair or the telescope and the bag
+28,2,Andrei picked up the bag or the chair and the telescope
+29,2,Danny moved the chair or the telescope and the bag
+30,2,Andrei and Danny put down the yellow bag and chair
+31,2,Andrei and Danny moved the green bag and chair
+32,2,Andrei moved the bag or the chair and the telescope
+33,2,Danny picked up the chair or the bag and the telescope
+34,2,Andrei and Danny held the green bag and chair
+35,2,Andrei and Danny held the yellow chair and bag
+36,2,Andrei held the chair or the bag and the telescope
+37,2,Andrei moved the telescope or the chair and the bag
+38,2,Andrei held the bag or the chair and the telescope
+39,2,Andrei held the chair or the telescope and the bag
+40,2,Andrei approached the person with a green chair
+41,2,Andrei left the person with a green bag
+42,2,Andrei looked at Danny moving a blue telescope
+43,2,Danny looked at Andrei holding a green chair
+44,2,Danny looked at Andrei with a telescope
+45,2,Andrei looked at Danny putting down a yellow chair
+46,2,Andrei approached the person holding a yellow chair
+47,2,Andrei looked at Danny picking up a yellow chair
+48,2,Danny looked at Andrei moving a green bag
+49,2,Danny approached the chair with a yellow bag
+50,2,Danny looked at Andrei putting down a blue telescope
+51,2,Andrei approached the person with a yellow bag
+52,2,Danny left the person holding a blue telescope
+53,2,Andrei looked at Danny picking up a green chair
+54,2,Danny approached the person with a yellow chair
+55,2,Danny looked at Andrei moving a yellow chair
+56,2,Andrei left the person holding a yellow chair
+57,2,Danny looked at Andrei picking up a blue telescope
+58,2,Andrei left the person with a green chair
+59,2,Andrei looked at Danny putting down a green chair
+60,2,Andrei moved the telescope on the chair
+61,2,Danny approached the person with a blue telescope
+62,2,Andrei moved the telescope on the bag
+63,2,Danny looked at the green bag with a telescope
+64,2,Danny looked at Andrei putting down a green bag
+65,2,Andrei looked at Danny picking up a green bag
+66,2,Danny looked at Andrei moving a green chair
+67,2,Danny looked at Andrei picking up a green bag
+68,2,Danny approached the chair with a blue telescope
+69,2,Danny moved the telescope on the bag
+70,2,Andrei looked at Danny putting down a blue telescope
+71,2,Danny left the chair with a green bag
+72,2,Danny left the person with a blue telescope
+73,2,Andrei looked at Danny moving a green bag
+74,2,Andrei looked at Danny putting down a green bag
+75,2,Andrei left the chair with a blue telescope
+76,2,Danny left the person with a yellow bag
+77,2,Danny left the person holding a yellow chair
+78,2,Danny left the chair with a yellow bag
+79,2,Danny left the person with a green bag
+80,2,Andrei looked at Danny holding a yellow chair
+81,2,Andrei looked at Danny picking up a blue telescope
+82,2,Danny looked at Andrei holding a yellow chair
+83,2,Danny left the person with a yellow chair
+84,2,Danny looked at Andrei picking up a yellow chair
+85,2,Danny approached the person with a yellow bag
+86,2,Danny left the person holding a green chair
+87,2,Danny moved the telescope on the chair
+88,2,Andrei approached the person holding a green chair
+89,2,Andrei left the person holding a green bag
+90,2,Danny approached the person holding a yellow chair
+91,2,Danny approached the person with a green chair
+92,2,Danny looked at Andrei holding a yellow bag
+93,2,Andrei looked at the yellow chair with a telescope
+94,2,Andrei looked at Danny putting down a yellow bag
+95,2,Andrei looked at Danny moving a green chair
+96,2,Andrei approached the person holding a blue telescope
+97,2,Andrei approached the person with a yellow chair
+98,2,Andrei left the person holding a green chair
+99,2,Andrei looked at Danny with a telescope
+100,2,Andrei left the person with a yellow bag
+101,2,Danny looked at the green chair with a telescope
+102,2,Andrei looked at Danny holding a blue telescope
+103,2,Danny looked at Andrei holding a blue telescope
+104,2,Andrei looked at Danny holding a green chair
+105,2,Andrei approached the person with a blue telescope
+106,2,Andrei left the person holding a blue telescope
+107,2,Danny approached the person holding a yellow bag
+108,2,Danny left the person with a green chair
+109,2,Andrei looked at the green chair with a telescope
+110,2,Andrei approached the chair with a yellow bag
+111,2,Danny left the person holding a yellow bag
+112,2,Andrei looked at Danny moving a yellow bag
+113,2,Danny looked at Andrei putting down a yellow chair
+114,2,Danny looked at the yellow chair with a telescope
+115,2,Danny moved the bag on the chair
+116,2,Danny looked at the yellow bag with a telescope
+117,2,Danny looked at Andrei putting down a green chair
+118,2,Andrei left the chair with a green bag
+119,2,Andrei looked at Danny moving a yellow chair
+120,2,Danny approached the person holding a green bag
+121,2,Andrei approached the person holding a green bag
+122,2,Danny looked at Andrei putting down a yellow bag
+123,2,Andrei looked at the green bag with a telescope
+124,2,Danny approached the person holding a green chair
+125,2,Andrei looked at the yellow bag with a telescope
+126,2,Andrei looked at Danny holding a green bag
+127,2,Andrei approached the person holding a yellow bag
+128,2,Danny looked at Andrei moving a blue telescope
+129,2,Danny looked at Andrei picking up a yellow bag
+130,2,Andrei left the person holding a yellow bag
+131,2,Danny looked at Andrei holding a green bag
+132,2,Danny looked at Andrei picking up a green chair
+133,2,Andrei approached the chair with a green bag
+134,2,Andrei approached the chair with a blue telescope
+135,2,Danny approached the person with a green bag
+136,2,Andrei left the person with a yellow chair
+137,2,Andrei moved the bag on the chair
+138,2,Andrei left the person with a blue telescope
+139,2,Danny looked at Andrei moving a yellow bag
+140,2,Danny approached the chair with a green bag
+141,2,Danny approached the person holding a blue telescope
+142,2,Danny left the chair with a blue telescope
+143,2,Andrei looked at Danny holding a yellow bag
+144,2,Andrei left the chair with a yellow bag
+145,2,Andrei approached the person with a green bag
+146,2,Andrei looked at Danny picking up a yellow bag
+147,2,Danny left the person holding a green bag
+148,1,Yevgeni approached Andrei; Danny too
+149,1,Danny left Yevgeni; Andrei too
+150,1,Someone held the bags
+151,3,Danny left Andrei; he held a telescope
+152,3,Andrei approached the bag and the chair; it was yellow
+153,1,Andrei looked at Danny; Yevgeni too
+154,3,Andrei left the bag and the chair; it was green
+155,1,Someone moved the bags
+156,1,Andrei left Yevgeni; Danny too
+157,1,Andrei and Danny put down a yellow chair
+158,1,Andrei and Danny left a green bag
+159,1,Andrei and Danny put down a yellow bag
+160,3,Andrei left Danny; he held a telescope
+161,1,Danny left Andrei; Yevgeni too
+162,1,Yevgeni looked at Andrei; Danny too
+163,1,Andrei and Danny put down a green chair
+164,3,Andrei approached Danny; he held a chair
+165,1,Andrei and Danny held a green chair
+166,1,Andrei approached Danny; Yevgeni too
+167,3,Danny left Andrei; he held a chair
+168,1,Andrei and Danny picked up a green chair
+169,3,Andrei left the bag and the chair; it was yellow
+170,1,Someone left the chairs
+171,1,Danny approached Yevgeni; Andrei too
+172,1,Yevgeni left Danny; Andrei too
+173,1,Yevgeni looked at Danny; Andrei too
+174,1,Andrei and Danny left a yellow chair
+175,1,Andrei and Danny held a yellow bag
+176,1,Andrei and Danny approached a green bag
+177,1,Danny looked at Yevgeni; Andrei too
+178,3,Danny approached Andrei; he held a telescope
+179,1,Someone moved the chairs
+180,1,Andrei and Danny left a yellow bag
+181,3,Danny approached the bag and the chair; it was green
+182,1,Danny looked at Andrei; Yevgeni too
+183,1,Someone approached the bags
+184,1,Andrei approached Yevgeni; Danny too
+185,1,Someone put down the chairs
+186,1,Someone approached the chairs
+187,1,Andrei and Danny picked up a green bag
+188,3,Andrei moved the bag and the chair; it was yellow
+189,1,Andrei and Danny left a green chair
+190,1,Andrei and Danny approached a green chair
+191,3,Andrei moved the bag and the chair; it was green
+192,3,Danny left the bag and the chair; it was yellow
+193,1,Andrei and Danny put down a green bag
+194,1,Andrei looked at Yevgeni; Danny too
+195,1,Yevgeni left Andrei; Danny too
+196,3,Danny left Andrei; he held a bag
+197,1,Andrei and Danny moved a yellow chair
+198,3,Andrei left Danny; he held a bag
+199,3,Danny held the bag and the chair; it was yellow
+200,3,Andrei held the bag and the chair; it was yellow
+201,1,Andrei left Danny; Yevgeni too
+202,3,Danny left the bag and the chair; it was green
+203,3,Andrei put down the bag and the chair; it was green
+204,1,Someone put down the bags
+205,1,Yevgeni approached Danny; Andrei too
+206,1,Someone picked up the chairs
+207,3,Danny put down the bag and the chair; it was green
+208,3,Danny approached Andrei; he held a chair
+209,1,Someone left the bags
+210,3,Andrei approached Danny; he held a bag
+211,3,Danny approached Andrei; he held a bag
+212,1,Andrei and Danny held a yellow chair
+213,1,Andrei and Danny approached a yellow bag
+214,1,Andrei and Danny held a green bag
+215,3,Andrei picked up the bag and the chair; it was yellow
+216,3,Danny put down the bag and the chair; it was yellow
+217,1,Andrei and Danny moved a green bag
+218,3,Andrei put down the bag and the chair; it was yellow
+219,1,Someone picked up the bags
+220,1,Andrei and Danny moved a green chair
+221,3,Danny picked up the bag and the chair; it was green
+222,3,Danny approached the bag and the chair; it was yellow
+223,3,Danny moved the bag and the chair; it was yellow
+224,3,Andrei left Danny; he held a chair
+225,1,Andrei and Danny approached a yellow chair
+226,3,Danny picked up the bag and the chair; it was yellow
+227,3,Danny moved the bag and the chair; it was green
+228,3,Andrei approached the bag and the chair; it was green
+229,1,Andrei and Danny moved a yellow bag
+230,1,Andrei and Danny picked up a yellow chair
+231,3,Danny held the bag and the chair; it was green
+232,1,Andrei and Danny picked up a yellow bag
+233,3,Andrei approached Danny; he held a telescope
+234,3,Andrei picked up the bag and the chair; it was green
+235,1,Danny approached Andrei; Yevgeni too
+236,3,Andrei held the bag and the chair; it was green
+237,0,"Andrei picked up the chair, or both the bag and the telescope"
+238,0,"Danny held the chair, or both the bag and the telescope"
+239,0,"Danny moved the chair, or both the bag and the telescope"
+240,0,"Andrei held the bag, and either the telescope or the chair"
+241,0,Andrei and Danny moved the yellow bag and the yellow chair
+242,0,Andrei and Danny held the green chair and the bag
+243,0,Andrei and Danny put down the yellow chair and the bag
+244,0,"Danny held the chair, or both the telescope and the bag"
+245,0,"Danny moved the bag, or both the chair and the telescope"
+246,0,Andrei and Danny picked up the green bag and the green chair
+247,0,"Andrei picked up the chair, or both the telescope and the bag"
+248,0,Andrei and Danny moved the yellow chair and the yellow bag
+249,0,Andrei and Danny picked up the yellow bag and the yellow chair
+250,0,Andrei and Danny moved the green chair and the bag
+251,0,Andrei and Danny picked up the yellow chair and the bag
+252,0,"Andrei moved the chair, or both the telescope and the bag"
+253,0,"Danny held the telescope, or both the chair and the bag"
+254,0,Andrei and Danny held the yellow bag and the yellow chair
+255,0,Andrei and Danny picked up the green chair and the bag
+256,0,"Danny moved the telescope, or both the chair and the bag"
+257,0,Andrei and Danny put down the green bag and the chair
+258,0,Andrei and Danny put down the green chair and the bag
+259,0,"Andrei moved the chair, or both the bag and the telescope"
+260,0,"Andrei picked up the bag, and either the telescope or the chair"
+261,0,"Danny picked up the telescope, and either the bag or the chair"
+262,0,"Danny held telescope, and either the bag or the chair"
+263,0,"Danny picked up the telescope, or both the chair and the bag"
+264,0,"Danny picked up the bag, and either the chair or the telescope"
+265,0,"Andrei picked up the bag, or both the chair and the telescope"
+266,0,"Danny moved the bag, and either the chair or the telescope"
+267,0,Andrei and Danny put down the yellow bag and the chair
+268,0,Andrei and Danny moved the green bag and the chair
+269,0,"Andrei moved the bag, or both the chair and the telescope"
+270,0,"Danny picked up the chair, or both the bag and the telescope"
+271,0,Andrei and Danny held the green bag and the chair
+272,0,Andrei and Danny held the yellow chair and the yellow bag
+273,0,"Andrei held the chair, or both the bag and the telescope"
+274,0,"Andrei moved the telescope, or both the chair and the bag"
+275,0,"Andrei held the bag, or both the chair and the telescope"
+276,0,"Andrei held the chair, or both the telescope and the bag"
+277,0,Andrei approached the person who had a green chair
+278,0,Andrei left the person who had a green bag
+279,0,Andrei looked at Danny while moving a blue telescope
+280,0,Danny looked at Andrei while holding a green chair
+281,0,Danny looked at Andrei who had a telescope
+282,0,Andrei looked at Danny while putting down a yellow chair
+283,0,Andrei approached the person while holding a yellow chair
+284,0,Andrei looked at Danny who was picking up a yellow chair
+285,0,Danny looked at Andrei while moving a green bag
+286,0,Danny approached the chair on which lay a yellow bag
+287,0,Danny looked at Andrei who was putting down a blue telescope
+288,0,Andrei approached the person while holding a yellow bag
+289,0,Danny left the person while holding a blue telescope
+290,0,Andrei looked at Danny who was picking up a green chair
+291,0,Danny approached the person who held a yellow chair
+292,0,Danny looked at Andrei who was moving a yellow chair
+293,0,Andrei left the person who held a yellow chair
+294,0,Danny looked at Andrei who was picking up a blue telescope
+295,0,Andrei left the person who had a green chair
+296,0,Andrei looked at Danny while putting down a green chair
+297,0,Andrei moved the telescope to be on the chair
+298,0,Danny approached the person who had a blue telescope
+299,0,Andrei moved the telescope to be on the bag
+300,0,Danny looked at the green bag on which lay a telescope
+301,0,Danny looked at Andrei while putting down a green bag
+302,0,Andrei looked at Danny who was picking up a green bag
+303,0,Danny looked at Andrei while moving a green chair
+304,0,Danny looked at Andrei while picking up a green bag
+305,0,Danny approached the chair while holding a blue telescope
+306,0,Danny moved the telescope that was on the bag
+307,0,Andrei looked at Danny while putting down a blue telescope
+308,0,Danny left the chair while holding a green bag
+309,0,Danny left the person who had a blue telescope
+310,0,Andrei looked at Danny who was moving a green bag
+311,0,Andrei looked at Danny who was putting down a green bag
+312,0,Andrei left the chair on which lay a blue telescope
+313,0,Danny left the person while holding a yellow bag
+314,0,Danny left the person while holding a yellow chair
+315,0,Danny left the chair while holding a yellow bag
+316,0,Danny left the person while holding a green bag
+317,0,Andrei looked at Danny while holding a yellow chair
+318,0,Andrei looked at Danny while picking up a blue telescope
+319,0,Danny looked at Andrei who was holding a yellow chair
+320,0,Danny left the person who had a yellow chair
+321,0,Danny looked at Andrei while picking up a yellow chair
+322,0,Danny approached the person who held a yellow bag
+323,0,Danny left the person who held a green chair
+324,0,Danny moved the telescope to be on the chair
+325,0,Andrei approached the person while holding a green chair
+326,0,Andrei left the person while holding a green bag
+327,0,Danny approached the person who held a yellow chair
+328,0,Danny approached the person while holding a green chair
+329,0,Danny looked at Andrei while holding a yellow bag
+330,0,Andrei looked at the yellow chair through a telescope
+331,0,Andrei looked at Danny while putting down a yellow bag
+332,0,Andrei looked at Danny who was moving a green chair
+333,0,Andrei approached the person who held a blue telescope
+334,0,Andrei approached the person who had a yellow chair
+335,0,Andrei left the person while holding a green chair
+336,0,Andrei looked at Danny through a telescope
+337,0,Andrei left the person while holding a yellow bag
+338,0,Danny looked at the green chair on which lay a telescope
+339,0,Andrei looked at Danny while holding a blue telescope
+340,0,Danny looked at Andrei while holding a blue telescope
+341,0,Andrei looked at Danny who held a green chair
+342,0,Andrei approached the person who had a blue telescope
+343,0,Andrei left the person who held a blue telescope
+344,0,Danny approached the person while holding a yellow bag
+345,0,Danny left the person while holding a green chair
+346,0,Andrei looked at the green chair through a telescope
+347,0,Andrei approached the chair on which lay a yellow bag
+348,0,Danny left the person while holding a yellow bag
+349,0,Andrei looked at Danny who was moving a yellow bag
+350,0,Danny looked at Andrei while putting down a yellow chair
+351,0,Danny looked at the yellow chair on which lay a telescope
+352,0,Danny moved the bag that was on the chair
+353,0,Danny looked at the yellow bag through a telescope
+354,0,Danny looked at Andrei who was putting down a green chair
+355,0,Andrei left the chair while holding a green bag
+356,0,Andrei looked at Danny who was moving a yellow chair
+357,0,Danny approached the person who held a green bag
+358,0,Andrei approached the person while holding a green bag
+359,0,Danny looked at Andrei while putting down a yellow bag
+360,0,Andrei looked at the green bag on which lay a telescope
+361,0,Danny approached the person who held a green chair
+362,0,Andrei looked at the yellow bag through a telescope
+363,0,Andrei looked at Danny while holding a green bag
+364,0,Andrei approached the person who held a yellow bag
+365,0,Danny looked at Andrei while moving a blue telescope
+366,0,Danny looked at Andrei while picking up a yellow bag
+367,0,Andrei left the person while holding a yellow bag
+368,0,Danny looked at Andrei who was holding a green bag
+369,0,Danny looked at Andrei who was picking up a green chair
+370,0,Andrei approached the chair while holding a green bag
+371,0,Andrei approached the chair while holding a blue telescope
+372,0,Danny approached the person who held a green bag
+373,0,Andrei left the person while holding a yellow chair
+374,0,Andrei moved the bag that was on the chair
+375,0,Andrei left the person while holding a blue telescope
+376,0,Danny looked at Andrei while moving a yellow bag
+377,0,Danny approached the chair while holding a green bag
+378,0,Danny approached the person who held a blue telescope
+379,0,Danny left the chair while holding a blue telescope
+380,0,Andrei looked at Danny who held a yellow bag
+381,0,Andrei left the chair while holding a yellow bag
+382,0,Andrei approached the person while holding a green bag
+383,0,Andrei looked at Danny while picking up a yellow bag
+384,0,Danny left the person while holding a green bag
+385,0,Yevgeni approached Andrei; he also approached Danny
+386,0,Danny left Yevgeni; he also left Andrei
+387,0,Someone held both bags
+388,0,Danny left Andrei; Danny held a telescope
+389,0,Andrei approached the bag and the chair; the bag was yellow
+390,0,Andrei looked at Danny; also at Yevgeni
+391,0,Andrei left the bag and the chair; the bag was green
+392,0,Each bag was moved by someone
+393,0,Andrei left Yevgeni; he also left Danny
+394,0,Andrei and Danny each put down a yellow chair
+395,0,Andrei and Danny each left a green bag
+396,0,Andrei and Danny each put down a yellow bag
+397,0,Andrei left Danny; Andrei held a telescope
+398,0,Danny left Andrei; Yevgeni also did
+399,0,Yevgeni looked at Andrei; also at Danny
+400,0,Andrei and Danny each put down a green chair
+401,0,Andrei approached Danny; Andrei held a chair
+402,0,Andrei and Danny each held a green chair
+403,0,Andrei approached Danny; he also approached Yevgeni
+404,0,Danny left Andrei; Andrei held a chair
+405,0,Andrei and Danny both picked up the same green chair
+406,0,Andrei left the bag and the chair; the chair was yellow
+407,0,Someone left both chairs
+408,0,Danny approached Yevgeni; he also approached Andrei
+409,0,Yevgeni left Danny; Andrei also did
+410,0,Yevgeni looked at Danny; Andrei also did
+411,0,Andrei and Danny both left the same yellow chair
+412,0,Andrei and Danny each held a yellow bag
+413,0,Andrei and Danny both approached the same green bag
+414,0,Danny looked at Yevgeni; Andrei also did
+415,0,Danny approached Andrei; Danny held a telescope
+416,0,Someone moved both chairs
+417,0,Andrei and Danny each left a yellow bag
+418,0,Danny approached the bag and the chair; the chair was green
+419,0,Danny looked at Andrei; Yevgeni also did
+420,0,Each bag was approached by someone
+421,0,Andrei approached Yevgeni; he also approached Danny
+422,0,Each chair was put down by someone
+423,0,Each chair was approached by someone
+424,0,Andrei and Danny each picked up a green bag
+425,0,Andrei moved the bag and the chair; the chair was yellow
+426,0,Andrei and Danny both left the same green chair
+427,0,Andrei and Danny each approached a green chair
+428,0,Andrei moved the bag and the chair; the chair was green
+429,0,Danny left the bag and the chair; the bag was yellow
+430,0,Andrei and Danny both put down the same green bag
+431,0,Andrei looked at Yevgeni; also at Danny
+432,0,Yevgeni left Andrei; he also left Danny
+433,0,Danny left Andrei; Andrei held a bag
+434,0,Andrei and Danny each moved a yellow chair
+435,0,Andrei left Danny; Andrei held a bag
+436,0,Andrei held the bag and the chair; the bag was yellow
+437,0,Danny held the bag and the chair; the chair was yellow
+438,0,Andrei left Danny; Yevgeni also did
+439,0,Danny left the bag and the chair; the bag was green
+440,0,Andrei put down the bag and the chair; the chair was green
+441,0,Someone put down all bags
+442,0,Yevgeni approached Danny; he also approached Andrei
+443,0,Someone picked up both chairs
+444,0,Danny put down the bag and the chair; the bag was green
+445,0,Danny approached Andrei; Danny held a chair
+446,0,Each bag was left by someone
+447,0,Andrei approached Danny; Danny held a bag
+448,0,Danny approached Andrei; Danny held a bag
+449,0,Andrei and Danny each held a yellow chair
+450,0,Andrei and Danny each approached a yellow bag
+451,0,Andrei and Danny both held the same green bag
+452,0,Andrei picked up the bag and the chair; the bag was yellow
+453,0,Danny put down the bag and the chair; the chair was yellow
+454,0,Andrei and Danny each moved a green bag
+455,0,Andrei put down the bag and the chair; the chair was yellow
+456,0,Someone picked up both bags
+457,0,Andrei and Danny both moved the same green chair
+458,0,Danny picked up the bag and the chair; the bag was green
+459,0,Danny approached the bag and the chair; the bag was yellow
+460,0,Danny moved the bag and the chair; the bag was yellow
+461,0,Andrei left Danny; Danny held a chair
+462,0,Andrei and Danny both approached the same yellow chair
+463,0,Danny picked up the bag and the chair; the bag was yellow
+464,0,Danny moved the bag and the chair; the chair was green
+465,0,Andrei approached the bag and the chair; the bag was green
+466,0,Andrei and Danny each moved a yellow bag
+467,0,Andrei and Danny each picked up a yellow chair
+468,0,Danny held the bag and the chair; the bag was green
+469,0,Andrei and Danny each picked up a yellow bag
+470,0,Andrei approached Danny; Danny held a telescope
+471,0,Andrei picked up the bag and the chair; the chair was green
+472,0,Danny approached Andrei; he also approached Yevgeni
+473,0,Andrei held the bag and the chair; the chair was green
